@@ -1,0 +1,14 @@
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\bin\Debug\net8.0\LeitorDeTexto.exe
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\bin\Debug\net8.0\LeitorDeTexto.deps.json
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\bin\Debug\net8.0\LeitorDeTexto.runtimeconfig.json
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\bin\Debug\net8.0\LeitorDeTexto.dll
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\bin\Debug\net8.0\LeitorDeTexto.pdb
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\obj\Debug\net8.0\LeitorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\obj\Debug\net8.0\LeitorDeTexto.AssemblyInfoInputs.cache
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\obj\Debug\net8.0\LeitorDeTexto.AssemblyInfo.cs
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\obj\Debug\net8.0\LeitorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\obj\Debug\net8.0\LeitorDeTexto.dll
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\obj\Debug\net8.0\refint\LeitorDeTexto.dll
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\obj\Debug\net8.0\LeitorDeTexto.pdb
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\obj\Debug\net8.0\LeitorDeTexto.genruntimeconfig.cache
+C:\Users\Alisson\source\repos\ProjetoLeitor\LeitorDeTexto\obj\Debug\net8.0\ref\LeitorDeTexto.dll
